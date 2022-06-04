@@ -43,7 +43,7 @@ and matrics = accuracy
 
 ### Fit the model 
 history = model.fit(train_generator, epochs = epoch, validation_data = valid_generator,batch_size = batch_size )<br/>
-The accuracy achieved on training dataset and validation dataset is almost 98%
+The accuracy achieved on training dataset and validation dataset is almost **98%**
 
 ### Training loss and Validation loss
 The loss closer to zero better the model perfomance
@@ -57,6 +57,8 @@ The loss closer to zero better the model perfomance
 ### But some of the pictures were not detected correctly
 <img src="https://user-images.githubusercontent.com/100771366/171991997-db714b41-1334-4b81-86c6-344b9893facb.png" width="114" height="600" />
 <img src="https://user-images.githubusercontent.com/100771366/171991999-f25c83dd-f6a6-4819-925f-2d3eddf5220d.png" width="114" height="600" />
+
+## Thank You 
 
 
 
