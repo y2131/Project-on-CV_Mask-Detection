@@ -1,4 +1,4 @@
-# Project-on-CV_Mask-Detection
+# Project on Computer Vision Mask Detection
 
 ## Overview
 ### What is computer vision?
@@ -12,7 +12,8 @@ Today I am going to present how computer vision is used to detect a human face
 
 with mask
 
-![Augmented_120_536902](https://user-images.githubusercontent.com/100771366/171874826-c214dea9-c1c0-435f-a01e-ca8cda3d0246.png)
+<img src="https://user-images.githubusercontent.com/100771366/171874826-c214dea9-c1c0-435f-a01e-ca8cda3d0246.png" width="114" height="114" />
+
 
 or without mask
 
