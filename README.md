@@ -42,7 +42,8 @@ Binary crossentropy loss function,<br/>
 and matrics = accuracy 
 
 ### Fit the model 
-
+history = model.fit(train_generator, epochs = epoch, validation_data = valid_generator,batch_size = batch_size )<br/>
+The accuracy achieved on training dataset and validation dataset is almost 98%
 
 ### Training loss and Validation loss
 The loss closer to zero better the model perfomance
